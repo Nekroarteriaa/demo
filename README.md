@@ -6,3 +6,7 @@ this is a simple readme file
 
 Updating in a branch, bitch 
 Loco
+
+## Purpose
+
+Me chupa un huevo todo lo que hagas con tu vida
